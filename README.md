@@ -15,6 +15,6 @@
 <img src="assets/1.png" alt="Imagen 4">
 <p>Paso 3: Una vez añadidos los nombres de los amigos, proceda a hacer click en el botón Sortear amigo, donde se le mostrará en pantalla el amigo sorteado; como puede observar en la siguiente imagen.</p>
 <img src="assets/6.png" alt="Imagen 5">
-<p> Observación: En caso de no haber ingresado ningún nombre y oe da click al botón Sortear amigo, automáticamente se le mostrará el un mensaje, como puede observar rn la imagen</p>
+<p> Observación: En caso de no haber ingresado ningún nombre y le da click al botón Sortear amigo, automáticamente se le mostrará el un mensaje, como puede observar en la imagen</p>
 <img src="assets/5.png" alt="Imágen 6">
 <h4> Suerte...! </h4> 

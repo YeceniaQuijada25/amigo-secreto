@@ -13,7 +13,7 @@
 <img src="assets/3.png" alt="Imagen 3">
 <p>Nota: Debe ingresar un nombre, en caso de no ingresarlo se le mostrará el siguiente mensaje, que se muestra en la siguiente imagen</p>
 <img src="assets/1.png" alt="Imagen 4">
-<p>Paso 3: Una vez añadidos los nombres de los amigos, proceda a hacer click en el botón Sortear amigo, donde se le mostrará en pantalla el amigo secreto en color verde (💚); como puede observar en la siguiente imagen.</p>
+<p>Paso 3: Una vez añadidos los nombres de los amigos, proceda a hacer click en el botón Sortear amigo, donde se le mostrará en pantalla el amigo secreto en color verde (💚) como puede observar en la siguiente imagen.</p>
 <img src="assets/6.png" alt="Imagen 5">
 <p> Observación: En caso de no haber ingresado ningún nombre y le da click al botón Sortear amigo, automáticamente se le mostrará el un mensaje, como puede observar en la imagen</p>
 <img src="assets/5.png" alt="Imágen 6">

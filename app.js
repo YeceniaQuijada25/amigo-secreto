@@ -18,7 +18,10 @@ function agregarAmigo(){
 
   }else{
 //Actualiza el array amigos
-   
+    amigo.push(nombre.value);
+    console.log(amigo);
+    document.querySelector("#amigo").value="";
+    recorrerArray()
   }
 }
 

@@ -45,3 +45,27 @@ function recorrerArray(){
    lista.appendChild(li);
   }
 }
+
+//Función para sortear los amigos
+function sortearAmigo(){
+//Validación de que existen amigos disponibles
+ if (amigo.length==0){
+  alert("Debes ingresar los nombres de los amigos. Por favor..!")
+ }else {
+   //Generar un indice aleatorio
+  let indiceAleatorio=Math.floor(Math.random()*amigo.length);
+
+  
+  //Obtener el nombre sorteado
+  let nombreSorteado=amigo[indiceAleatorio];
+
+
+ //Mostrar el resultado
+ let resultado= document.getElementById("resultado");
+
+ resultado.innerHTML=nombreSorteado;
+ }
+
+}
+
+

@@ -24,3 +24,24 @@ function agregarAmigo(){
     recorrerArray()
   }
 }
+
+//Funcion que permite recorrer el array
+function recorrerArray(){
+//Obtener elementos de la lista
+
+  let lista=document.querySelector("#listaAmigos");
+
+//Limpiar la lista existente
+  lista.innerHTML="";
+//Iterar sobre el arreglo
+  for (let i=0;i<amigo.length;i++)
+  {
+   //Crea un nuevo elemento li
+   let li=document.createElement('li');
+  //Asigna el valor al nuevo li
+
+   li.textContent=amigo[i];
+  //Agregar nuevo elemento a la lista
+   lista.appendChild(li);
+  }
+}
